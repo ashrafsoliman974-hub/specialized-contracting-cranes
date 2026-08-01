@@ -1,0 +1,6 @@
+{
+  "name": "المقاولات التخصصية - كرينز",
+  "description": "نظام سحابي متكامل لإدارة معدات الرفع والمقاولات التخصصية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
